@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on My Beautiful School!
+- 🌱 I’m currently learning Java and Python, let we learn together!
+- 👯 I’m looking to collaborate on Java Programer!
+- 🤔 I’m looking for help with how to program with Java!
+- 💬 Ask me about something!
+- 📫 How to reach me: follow my github account and I will attach you!
+- 😄 Pronouns: stay hungry stay foolish!
+- ⚡ Fun fact: I like reading, traveling and playing games!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
